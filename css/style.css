@@ -20,6 +20,7 @@ main{
     margin: 10px;
     width: 80%;
     margin: auto;
+    font-size: 20px;
 }
 
 h1{
@@ -53,13 +54,7 @@ figure{
 }
 
 .tim-img{
-    height: 600px;
     width: 49%;
-}
-
-#article-main{
-    font-size: 20px;
-
 }
 
 .highlighted{
@@ -82,7 +77,6 @@ table{
 thead{
     color: white;
     background-color: #20a9e5;
-
 }
 
 .first-part{
@@ -100,7 +94,6 @@ footer{
 
 h2{
     color: grey;
-    
 }
 
 .suggests-container{
