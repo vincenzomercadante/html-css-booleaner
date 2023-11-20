@@ -18,7 +18,8 @@ header{
 
 main{
     margin: 10px;
-    
+    width: 80%;
+    margin: auto;
 }
 
 h1{
@@ -42,8 +43,6 @@ h1{
     font-size: 20px;
     color: grey;
 }
-
-
 
 figure{
     margin-left: 0px;
@@ -95,7 +94,8 @@ thead{
 }
 
 footer{
-    margin: 10px;
+    margin: auto;
+    width: 80%;
 }
 
 h2{
