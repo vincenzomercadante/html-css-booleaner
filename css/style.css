@@ -13,5 +13,45 @@ header{
     height: 90px;
     position: absolute;
     left: 20px;
-    top: 50%;
+    bottom: 20px;
+}
+
+main{
+    margin: 10px;
+    
+}
+
+h1{
+    font-size: 75px;
+    margin: 0px;
+}
+
+.credits-container{
+    color: grey;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.author{
+    text-decoration: none;
+    color: #4ea0ff;
+}
+
+.date-container{
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+}
+
+p{
+    margin: 0px;
+}
+
+figure{
+    margin-left: 0px;
+}
+
+.tim-img{
+    height: 600px;
+    width: 49%;
 }
